@@ -1,0 +1,7 @@
+Tanvir rahman
+Tanvir\
+fgets(buffer, 255, file);
+ [^
+]s
+One last try!T
+Saifur rahman tanvir
