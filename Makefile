@@ -2,7 +2,7 @@
 
 CXX = gcc
 CXXFLAGS = -std=c++11
-SRC_DIRS = FgetcFputc FgetsFputs
+SRC_DIRS = FgetcFputc FgetsFputs FreadFwrite
 BUILD_DIR = build
 TARGET = main.exe
 
